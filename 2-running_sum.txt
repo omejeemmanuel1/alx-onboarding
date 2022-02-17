@@ -1,0 +1,8 @@
+Step 1. start
+step 2. int (Input a number)
+step 3. Set counter to 1
+step 4. IF number === negative 
+step 5. Print "Number is not allowed"
+step 6. Else IF number === positive
+step 7. Print int * counter
+step 8. stop
