@@ -1,0 +1,12 @@
+Step 1. start
+step 2. int one ( Enter number )
+step 3. int two ( Enter number )
+step 4. int three ( Enter number )
+Step 5. IF one < two and < three
+step 6.  print(three, one, two)
+step 7. ELSE
+step 8. print(one, three, two)
+step 9. ELSE IF one< three and two < three
+Step 10. print(two, one, three)
+Step 11. ELSE
+  print(one, two, three)        
