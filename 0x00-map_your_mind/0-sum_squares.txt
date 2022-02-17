@@ -1,0 +1,9 @@
+Step 1. Start
+Step 2. Read number num
+Step 3. [Initialize]
+        sum=0, i=1
+Step 4. Repeat step 4 through 6 until i<=num
+Step 5. sum=sum+(i*i)
+Step 6. i=i+1
+Step 7. print the sum of square
+Step 8. stop
